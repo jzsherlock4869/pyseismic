@@ -33,20 +33,19 @@ duration_ratio:   controls the sampling of chirp of ground-roll in each trace
 save_path:    synthetic data save path, if parent folder not exist, it will be created
 ```
 
-
+### Related Works
 
 * if this project helps you, please cite the following papers:
 
 ```latex
-@article{jia2020blind,
-  title={Blind separation of ground-roll using interband morphological similarity and pattern coding},
-  author={Jia, Zhuang and Lu, Wenkai},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={58},
-  number={10},
-  pages={7166--7177},
-  year={2020},
-  publisher={IEEE}
+@misc{jia2024groundrollseparationlandseismic,
+      title={Ground-roll Separation From Land Seismic Records Based on Convolutional Neural Network}, 
+      author={Zhuang Jia and Wenkai Lu and Meng Zhang and Yongkang Miao},
+      year={2024},
+      eprint={2409.03878},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.03878}, 
 }
 ```
 
