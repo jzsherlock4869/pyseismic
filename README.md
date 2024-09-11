@@ -2,7 +2,7 @@
 
 python tools for seismic ground-roll (surface wave) simulation
 
-### ground-roll simulation
+### Ground-roll Simulation
 
 ```
 cd ./data_synthesis
